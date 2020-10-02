@@ -1,7 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=sejalrastogi&color=47ccb3) 
-<!--
-
+![](https://komarev.com/ghpvc/?username=Filzazarin&color=47ccb3) 
 <!--
 **Filzazarin/FilzaZarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything...
 - 📫 How to reach me: https://www.linkedin.com/in/filza-zarin-1772231b1/
 - 😄 Pronouns: She/Her...
-
--->![Filza's github stats](https://github-readme-stats.vercel.app/api?username=Filzazarin&show_icons=true&theme=prussian)
+-->
+![Filza's github stats](https://github-readme-stats.vercel.app/api?username=Filzazarin&show_icons=true&theme=prussian)
