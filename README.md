@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/filza-zarin-1772231b1/
 - 😄 Pronouns: She/Her...
 
--->
+-->![Filza's github stats](https://github-readme-stats.vercel.app/api?username=Filzazarin&show_icons=true&theme=prussian)
