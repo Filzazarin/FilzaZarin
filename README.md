@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her...
 -->
 ![Filza's github stats](https://github-readme-stats.vercel.app/api?username=Filzazarin&show_icons=true&theme=prussian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filzazarin&layout=compact)](https://github.com/Filzazarin/github-readme-stats) 
+
