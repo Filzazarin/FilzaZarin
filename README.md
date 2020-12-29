@@ -13,7 +13,6 @@
 [![Years Badge](https://badges.pufler.dev/years/Filzazarin)](https://badges.pufler.dev/years/Filzazarin)
 [![Repos Badge](https://badges.pufler.dev/repos/Filzazarin)](https://badges.pufler.dev/repos/Filzazarin)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Filzazarin)](https://badges.pufler.dev/commits/monthly/Filzazarin)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filzazarin&layout=compact)](https://github.com/Filzazarin/github-readme-stats) 
 
 
 
