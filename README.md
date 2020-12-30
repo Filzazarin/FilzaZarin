@@ -1,5 +1,9 @@
 ### Hi there 👋 Filza Zarin
 ![](https://komarev.com/ghpvc/?username=Filzazarin&color=47ccb3) 
+![GitHub followers](https://img.shields.io/github/followers/Filzazarin?label=Follow&style=social)
+[![Repos Badge](https://badges.pufler.dev/repos/Filzazarin)](https://badges.pufler.dev/repos/Filzazarin)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Filzazarin)](https://badges.pufler.dev/commits/monthly/Filzazarin)
+
 - 🔭 I’m currently working on Web Development...
 - 🌱 I’m currently learning C++ & Data structure...
 - 👯 I’m looking to collaborate on open source projects...
