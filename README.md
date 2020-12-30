@@ -1,5 +1,6 @@
 ### Hi there 👋 Filza Zarin
 ![](https://komarev.com/ghpvc/?username=Filzazarin&color=47ccb3) 
+
 ![GitHub followers](https://img.shields.io/github/followers/Filzazarin?label=Follow&style=social)
 [![Repos Badge](https://badges.pufler.dev/repos/Filzazarin)](https://badges.pufler.dev/repos/Filzazarin)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Filzazarin)](https://badges.pufler.dev/commits/monthly/Filzazarin)
@@ -11,10 +12,6 @@
 - 💬 Ask me about anything...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/filza-zarin-1772231b1/)
 - 😄 Pronouns: She/Her
-
-![GitHub followers](https://img.shields.io/github/followers/Filzazarin?label=Follow&style=social)
-[![Repos Badge](https://badges.pufler.dev/repos/Filzazarin)](https://badges.pufler.dev/repos/Filzazarin)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Filzazarin)](https://badges.pufler.dev/commits/monthly/Filzazarin)
 
 ## You will find me here:
 
