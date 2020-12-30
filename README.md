@@ -15,9 +15,7 @@
 ## You will find me here:
 
  <a href="https://www.linkedin.com/in/filza-zarin-1772231b1/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Filzazarin" height="40" width="30" /></a>
- 
 <a href="https://www.instagram.com/filzazarin/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Filzazarin" height="30" width="40" /></a>
-
 <a href="https://medium.com/@filzazarin2002" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Filzazarin" height="30" width="40" /></a>
 
 
