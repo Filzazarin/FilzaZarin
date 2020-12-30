@@ -12,6 +12,13 @@
 [![Repos Badge](https://badges.pufler.dev/repos/Filzazarin)](https://badges.pufler.dev/repos/Filzazarin)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Filzazarin)](https://badges.pufler.dev/commits/monthly/Filzazarin)
 
+## You will find me here:
+<p align="center">
+ <a href="https://www.linkedin.com/in/filza-zarin-1772231b1/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Filzazarin" height="40" width="30" /></a>
+<a href="https://www.instagram.com/filzazarin/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Filzazarin" height="30" width="40" /></a>
+<a href="https://medium.com/@filzazarin2002" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Filzazarin" height="30" width="40" /></a>
+</p>
+
 
 ![Filza's github stats](https://github-readme-stats.vercel.app/api?username=Filzazarin&show_icons=true&theme=onedark)
 
