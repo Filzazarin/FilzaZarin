@@ -30,8 +30,6 @@
 
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align = "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="48" height="50" />
-
 <img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="50" height="50" />
 
 <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="50" height="50" /> -->
@@ -51,7 +49,7 @@
 
 
 
-![Filza's github stats](https://github-readme-stats.vercel.app/api?username=Filzazarin&show_icons=true&theme=onedark)
+<p>![Filza's github stats](https://github-readme-stats.vercel.app/api?username=Filzazarin&show_icons=true&theme=onedark)</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filzazarin&layout=compact)](https://github.com/Filzazarin/github-readme-stats) 
