@@ -47,9 +47,9 @@
 
 
 
+##Github stats
 
-
-[![Filza's github stats](https://github-readme-stats.vercel.app/api?username=Filzazarin&show_icons=true&theme=onedark)]
+![Filza's github stats](https://github-readme-stats.vercel.app/api?username=Filzazarin&show_icons=true&theme=onedark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filzazarin&layout=compact)](https://github.com/Filzazarin/github-readme-stats) 
