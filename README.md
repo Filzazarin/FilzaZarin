@@ -11,7 +11,7 @@
 - 🥰 Checkout my: [Portifolio](https://filzazarin.github.io/MyPortifolio/.)
 - 💬 Ask me about anything...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/filza-zarin-1772231b1/)
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her 
 
 ## You will find me here:
 
