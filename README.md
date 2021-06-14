@@ -29,7 +29,8 @@ Computer Science & Engineering Sophomore_ at <b>Netaji Subhas Institute of Techn
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filzazarin&layout=compact)](https://github.com/Filzazarin/github-readme-stats) 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkranjan&layout=compact)](https://github.com/avinashkranjan)
+![Avinash GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avinashkranjan)
 
 ## Languages I know:
 
