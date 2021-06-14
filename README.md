@@ -7,7 +7,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/Filzazarin)](https://badges.pufler.dev/repos/Filzazarin)
 
 
-Computer Science & Engineering Sophomore_ at <b>Netaji Subhas Institute of Technology </b> (Location: Patna, India) I'm a <b> Frontend (MERN) Developer</b>  🤓 | <b>Andriod Developer</b> 👨🏻‍💻 | <b>Java Programmer</b> 🧐  | <b>C/C++</b> 🐍 | <b>Open Source Contributor</b> 📝| <b>Competitive Programmer</b>🤠 | <b>Technical Writer</b> 🤭| <b>Public Speaker</b> 🥳. Looking forward to utilize my <b>Web Development</b>, <b>Software Development</b> and <b>Competitive Skills</b> in a Dynamic Environment. 🧑🏻
+Computer Science & Engineering Sophomore_ at <b>Netaji Subhas Institute of Technology </b> (Location: Patna, India) I'm a <b> Frontend Developer</b>  🤓 | <b>Andriod Developer</b> 👨🏻‍💻 | <b>Java Programmer</b> 🧐  | <b>C/C++</b> 🐍 | <b>Open Source Contributor</b> 📝| <b>Competitive Programmer</b>🤠 | <b>Technical Writer</b> 🤭| <b>Public Speaker</b> 🥳. Looking forward to utilize my <b>Web Development</b>, <b>Software Development</b> and <b>Competitive Skills</b> in a Dynamic Environment. 🧑🏻
 
 - 🔭 I’m currently working on Andriod Development...
 - 🌱 I’m currently learning Java & Data structure...
