@@ -1,16 +1,21 @@
-### Hi there 👋 Filza Zarin
+### Hi there, I'm 👋 Filza Zarin
 ![](https://komarev.com/ghpvc/?username=Filzazarin&color=47ccb3) 
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
+
 
 ![GitHub followers](https://img.shields.io/github/followers/Filzazarin?label=Follow&style=social)
 [![Repos Badge](https://badges.pufler.dev/repos/Filzazarin)](https://badges.pufler.dev/repos/Filzazarin)
+Computer Science & Engineering Sophomore_ at <b>Netaji Subhas Institute of Technology a</b> (Location: Patna, India) I'm a <b> Frontend (MERN) Developer</b>  🤓 | <b>Andriod Developer</b> 👨🏻‍💻 | <b>Java Programmer</b> 🧐  | <b>C/C++</b> 🐍 | <b>Open Source Contributor</b> 📝| <b>Competitive Programmer</b>🤠 | <b>Technical Writer</b> 🤭| <b>Public Speaker</b> 🥳. Looking forward to utilize my <b>Web Development</b>, <b>Software Development</b> and <b>Competitive Skills</b> in a Dynamic Environment. 🧑🏻
 
-- 🔭 I’m currently working on Web Development...
-- 🌱 I’m currently learning C++ & Data structure...
+- 🔭 I’m currently working on Andriod Development...
+- 🌱 I’m currently learning Java & Data structure...
 - 👯 I’m looking to collaborate on open source projects...
+- 🥰 I’m looking to collaborate on any cool Project
 - 🥰 Checkout my: [Portifolio](https://filzazarin.github.io/MyPortifolio/.)
 - 💬 Ask me about anything...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/filza-zarin-1772231b1/)
 - 😄 Pronouns: She/Her 
+- 📫 I'm Open for New Opportunities
 
 ## You will find me here:
 
