@@ -1,9 +1,10 @@
 ### Hi there, I'm 👋 Filza Zarin
+----------------
 <p align="center">
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 </p>
 
-
+---------------
 ![](https://komarev.com/ghpvc/?username=Filzazarin&color=47ccb3) 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
