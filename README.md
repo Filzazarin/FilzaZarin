@@ -38,25 +38,29 @@ Computer Science & Engineering Sophomore_ at <b>Netaji Subhas Institute of Techn
  
  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
- 
+  
+  
+  
+<img align="left" alt="Visual Studio Code" width="50px"  height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt = "IntelliJ-idea"/>
+
+<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt = "PyCharm"/>
+
+  
  
  -----
   
@@ -76,7 +80,7 @@ Computer Science & Engineering Sophomore_ at <b>Netaji Subhas Institute of Techn
 
 
 
-## Tools I use:
+<!--## Tools I use:
 
 <img align="left" alt="Visual Studio Code" width="50px"  height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -86,7 +90,7 @@ Computer Science & Engineering Sophomore_ at <b>Netaji Subhas Institute of Techn
 
 <img align="left" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt = "IntelliJ-idea"/>
 
-<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt = "PyCharm"/>
+<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt = "PyCharm"/>-->
 
 
 
