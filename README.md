@@ -25,12 +25,6 @@ Computer Science & Engineering Sophomore_ at <b>Netaji Subhas Institute of Techn
 <a href="https://medium.com/@filzazarin2002" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Filzazarin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/filza.zarin.1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Filzazarin" height="30" width="40" /></a>
 
-![Filza's github stats](https://github-readme-stats.vercel.app/api?username=Filzazarin&show_icons=true&theme=onedark)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filzazarin&layout=compact)](https://github.com/Filzazarin)
-![Filza zarin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Filzazarin)
 
 ### Languages and Tools
 
@@ -59,6 +53,23 @@ Computer Science & Engineering Sophomore_ at <b>Netaji Subhas Institute of Techn
  -----
   
 </p>
+<h1 align="center">Github Stats</h1>
+
+<div align="center">
+  
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Filzazarin&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+ </div>
+ 
+ 
+
+<img align="left" alt="Filza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Filzazarin&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filzazarin&layout=compact&theme=dark" width="46%" />
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=Filzazarin&theme=xcode">
+
+
+
 
 
 
