@@ -19,11 +19,20 @@ Computer Science & Engineering Sophomore_ at <b>Netaji Subhas Institute of Techn
 - 😄 Pronouns: She/Her 
 - 📫 I'm Open for New Opportunities
 
-## You will find me here:
+<!--## You will find me here:
 
 <a href="https://www.linkedin.com/in/filza-zarin-1772231b1/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Filzazarin" height="40" width="30" /></a>  <a href="https://www.instagram.com/filzazarin/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Filzazarin" height="30" width="40" /></a>
 <a href="https://medium.com/@filzazarin2002" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Filzazarin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/filza.zarin.1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Filzazarin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/filza.zarin.1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Filzazarin" height="30" width="40" /></a>-->
+### 📫 &nbsp; How to reach me:
+
+
+
+<a href="https://www.linkedin.com/in/filza-zarin-1772231b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/filzazarin/"><img src="https://img.shields.io/badge/-@michael201199-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="filzazarin2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
+-----  
 
 
 ### Languages and Tools
