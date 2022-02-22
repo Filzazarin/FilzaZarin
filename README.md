@@ -32,13 +32,45 @@ Computer Science & Engineering Sophomore_ at <b>Netaji Subhas Institute of Techn
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filzazarin&layout=compact)](https://github.com/Filzazarin)
 ![Filza zarin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Filzazarin)
 
-## Languages I know:
+### Languages and Tools
+
+<p>
+ 
+ 
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+ 
+ 
+ -----
+  
+</p>
+
+
+
+<!--## Languages I know:
 
 <img align = "left" src="https://img.icons8.com/color/100/000000/c-programming.png" alt="C" width="50px" />
 <img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <img align="left" alt="JAVA" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="50" height="50" />
+<img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="50" height="50" />-->
 
 <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="50" height="50" /> -->
 
