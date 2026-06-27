@@ -1,6 +1,6 @@
 # Hi, I'm Filza Zarin 👋
 
-**Backend Software Engineer @ Brambles**  
+**Software Engineer @ Brambles**  
 Java • Spring Boot • Microservices • PostgreSQL • Kafka • CI/CD
 
 ![](https://komarev.com/ghpvc/?username=Filzazarin&color=47ccb3)
@@ -14,11 +14,11 @@ I’m a Backend Software Engineer with **2+ years** of experience building and s
 
 Currently at **Brambles**, I work on scalable backend services, automated testing pipelines, and zero-downtime deployments. I enjoy solving performance problems, writing clean code, and designing reliable systems.
 
-- 🔭 Currently working on: Java Spring Boot microservices & backend systems
-- 🌱 Currently exploring: System design, distributed systems, and high-throughput APIs
-- 👯 Open to collaborating on: Backend-focused open-source projects
-- 💬 Ask me about: Java, Spring Boot, SQL optimization, microservices, Kafka
-- 📫 Reach me: [filzazarin6@gmail.com](mailto:filzazarin6@gmail.com)
+- 🔭 **Currently working on**: Java Spring Boot microservices & backend systems
+- 🌱 **Currently exploring**: System design, distributed systems, and high-throughput APIs
+- 👯 **Open to collaborating on**: Backend-focused open-source projects
+- 💬 **Ask me about**: Java, Spring Boot, SQL optimization, microservices, Kafka
+- 📫 **Reach me:** [filzazarin6@gmail.com](mailto:filzazarin6@gmail.com)
 - 😄 Pronouns: She/Her
 - 🎯 Open to new opportunities
 
