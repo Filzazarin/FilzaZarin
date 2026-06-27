@@ -1,124 +1,87 @@
-### Hi there, I'm 👋 Filza Zarin
-----------------
-<p align="center">
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
-</p>
+# Hi, I'm Filza Zarin 👋
 
----------------
-![](https://komarev.com/ghpvc/?username=Filzazarin&color=47ccb3) 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
+**Backend Software Engineer @ Brambles**  
+Java • Spring Boot • Microservices • PostgreSQL • Kafka • CI/CD
 
-
+![](https://komarev.com/ghpvc/?username=Filzazarin&color=47ccb3)
 ![GitHub followers](https://img.shields.io/github/followers/Filzazarin?label=Follow&style=social)
-[![Repos Badge](https://badges.pufler.dev/repos/Filzazarin)](https://badges.pufler.dev/repos/Filzazarin)
 
-### 👨🏻‍💻 &nbsp;About Me
-Computer Science & Engineering Sophomore_ at <b>Netaji Subhas Institute of Technology </b> (Location: Patna, India) I'm a <b> Frontend Developer</b>  🤓 | <b>Andriod Developer</b> 👨🏻‍💻 | <b>Java Programmer</b> 🧐  | <b>C/C++</b> 🐍 | <b>Open Source Contributor</b> 📝| <b>Competitive Programmer</b>🤠 | <b>Technical Writer</b> 🤭| <b>Public Speaker</b> 🥳. Looking forward to utilize my <b>Web Development</b>, <b>Software Development</b> and <b>Competitive Skills</b> in a Dynamic Environment. 🧑🏻
+---
 
-- 🔭 I’m currently working on Andriod Development...
-- 🌱 I’m currently learning Java & Data structure...
-- 👯 I’m looking to collaborate on open source projects...
-- 🥰 I’m looking to collaborate on any cool Project
-- 🥰 Checkout my: [Portfolio](https://filzazarin.github.io/MyPortifolio/.)
-- 💬 Ask me about anything...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/filza-zarin-1772231b1/)
-- 😄 Pronouns: She/Her 
-- 📫 I'm Open for New Opportunities
+## 👩🏻‍💻 About Me
 
-----------------------------------
+I’m a Backend Software Engineer with **2+ years** of experience building and shipping high-performance systems. I specialize in **Java/Spring Boot microservices**, **RESTful API design**, **PostgreSQL optimization**, and **event-driven architecture** with **Apache Kafka**.
 
-<!--## You will find me here:
+Currently at **Brambles**, I work on scalable backend services, automated testing pipelines, and zero-downtime deployments. I enjoy solving performance problems, writing clean code, and designing reliable systems.
 
-<a href="https://www.linkedin.com/in/filza-zarin-1772231b1/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Filzazarin" height="40" width="30" /></a>  <a href="https://www.instagram.com/filzazarin/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Filzazarin" height="30" width="40" /></a>
-<a href="https://medium.com/@filzazarin2002" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Filzazarin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/filza.zarin.1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Filzazarin" height="30" width="40" /></a>-->
+- 🔭 Currently working on: Java Spring Boot microservices & backend systems
+- 🌱 Currently exploring: System design, distributed systems, and high-throughput APIs
+- 👯 Open to collaborating on: Backend-focused open-source projects
+- 💬 Ask me about: Java, Spring Boot, SQL optimization, microservices, Kafka
+- 📫 Reach me: [filzazarin6@gmail.com](mailto:filzazarin6@gmail.com)
+- 😄 Pronouns: She/Her
+- 🎯 Open to new opportunities
 
---------------------
-### 📫 &nbsp; How to reach me:
-<a href="https://www.linkedin.com/in/filza-zarin-1772231b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://www.instagram.com/filzazarin/"><img src="https://img.shields.io/badge/-@filzazarin-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="filzazarin2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+---
 
------  
+## 🛠️ Tech Stack
 
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
+**Backend & Frameworks:**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat)
 
-------------------------------
-### Languages and Tools
+**Databases & Messaging:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
-<p>
- 
- 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
- <img align="left" alt="Visual Studio Code" width="50px"  height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+**Testing & DevOps:**  
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat)
 
-<img align="left" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt = "IntelliJ-idea"/>
+---
 
-<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt = "PyCharm"/>
+## 🚀 Featured Projects
 
-  
- 
- -----
-  
-</p>
-<h1 align="center">Github Stats</h1>
+### [Flash Sale & Inventory Management System](https://github.com/Filzazarin?tab=repositories)
+**Stack:** Java, Spring Boot, Redis, Apache Kafka, PostgreSQL
 
-<div align="center">
-  
+- Engineered concurrent order handling with **optimistic locking** to prevent overselling.
+- Used **Redis atomic operations** (DECR) for real-time inventory tracking and race-condition-free performance.
+- Designed an **event-driven order pipeline** with **Kafka** for async order fulfillment and notifications.
+- Implemented a **Redis sorted-set waitlist** to notify users when sold-out items restocked.
+
+---
+
+### [HR Management System](https://github.com/Filzazarin?tab=repositories)
+**Stack:** Java, Spring Boot, PostgreSQL
+
+- Architected a multi-tier HRMS using **DAO/DTO pattern** — clean separation of data, business, and service layers.
+- Implemented **transactional business logic** with Spring `@Transactional` for data consistency.
+- Designed RESTful endpoints with input validation and structured error handling.
+
+---
+
+## 📊 GitHub Stats
+
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Filzazarin&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
- </div>
- 
- 
+---
 
-<img align="left" alt="Filza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Filzazarin&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filzazarin&layout=compact&theme=dark" width="46%" />
-<br>
-<img src="https://activity-graph.herokuapp.com/graph?username=Filzazarin&theme=xcode">
+## 📫 Connect With Me
 
-
-
-
-
-
-<!--## Languages I know:
-
-<img align = "left" src="https://img.icons8.com/color/100/000000/c-programming.png" alt="C" width="50px" />
-<img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-<img align="left" alt="JAVA" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="50" height="50" />-->
-
-<!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="50" height="50" /> -->
-
-
-
-<!--## Tools I use:
-
-<img align="left" alt="Visual Studio Code" width="50px"  height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt = "IntelliJ-idea"/>
-
-<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt = "PyCharm"/>-->
-
-
-
-
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filza-zarin-1772231b1/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:filzazarin6@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/filzazarin/)
